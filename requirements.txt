@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python
+pytube
+PyPDF2
+transformers
+torch
+sentence-transformers
+faiss-cpu
+pillow
+pdf2image
+openai
+jinja2
+requests
