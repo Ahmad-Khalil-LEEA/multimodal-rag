@@ -50,7 +50,7 @@ multimodal-rag/
 
 1. **Clone the repo and install dependencies**
     ```bash
-    git clone https://github.com/yourusername/multimodal-rag.git
+    git clone https://github.com/Ahmad-Khalil-LEEA/multimodal-rag.git
     cd multimodal-rag
     pip install -r requirements.txt
     ```
